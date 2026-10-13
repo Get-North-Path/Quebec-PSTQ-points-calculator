@@ -1,5 +1,7 @@
 # Guides
 
+![PSTQ guides hub](../../assets/guides-hub.png)
+
 **Live:** [https://pstq.getnorthpath.com/guide](https://pstq.getnorthpath.com/guide)
 
 The guides hub is a set of plain-language explainers. The page says to start anywhere, then run the calculator. It links to tools and the FAQ.

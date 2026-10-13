@@ -1,5 +1,7 @@
 # Regions hub
 
+![PSTQ regions hub](../../assets/regions-grid.png)
+
 **Live:** [https://pstq.getnorthpath.com/regions](https://pstq.getnorthpath.com/regions)
 
 The regions hub compares Québec places for PSTQ **regional bonus** scoring: inside the Montréal metropolitan area versus outside it. It lists **six** profiles and tells you to run the calculator.

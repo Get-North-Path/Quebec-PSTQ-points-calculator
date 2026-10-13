@@ -1,5 +1,7 @@
 # Draws
 
+![PSTQ 2026 draws](../../assets/draws-grid.png)
+
 **Live:** [https://pstq.getnorthpath.com/draws](https://pstq.getnorthpath.com/draws)
 
 The draws page is a structured history of **2026 PSTQ invitation rounds** published on quebec.ca. As checked on 6 October 2026 it covers **nine rounds through 24 September 2026**, all four streams, invitation counts, and published score ranges.

@@ -1,5 +1,7 @@
 # The four PSTQ streams
 
+![PSTQ four streams](../assets/streams-grid.png)
+
 Every candidate is scored inside **one** stream. The [streams guide](https://pstq.getnorthpath.com/guide/pstq-streams) states that the **1,400-point formula is the same** in all four streams. What changes is the **eligibility gate** and **which invitation pool** you are ranked in.
 
 Stream is decided mainly by **TEER** (NOC 2021) and by whether the occupation is a **regulated profession**. Exceptional talent is a separate, self-declared pathway. You do not choose a stream in order to use a different point table.

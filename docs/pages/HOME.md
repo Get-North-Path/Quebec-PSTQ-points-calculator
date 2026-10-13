@@ -1,5 +1,7 @@
 # Home
 
+![PSTQ Score Calculator home](../../assets/home-hub.png)
+
 **Live:** [https://pstq.getnorthpath.com/](https://pstq.getnorthpath.com/)
 
 The homepage is the **PSTQ calculator**. It estimates a score out of 1,400, assigns a stream, flags hard gates, and compares the estimate with the latest published Arrima round. No account is required.

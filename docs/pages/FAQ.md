@@ -1,5 +1,7 @@
 # FAQ
 
+![PSTQ FAQ](../../assets/faq-grid.png)
+
 **Live:** [https://pstq.getnorthpath.com/faq](https://pstq.getnorthpath.com/faq)
 
 The FAQ page is titled around the questions people arrive with. A shorter set of four answers also sits on the homepage at [/#faq](https://pstq.getnorthpath.com/#faq).

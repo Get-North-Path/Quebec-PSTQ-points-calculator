@@ -34,6 +34,7 @@ This is **not** the same mapping as federal CLB/NCLC. Use this tool for PSTQ Fre
 
 The calculator still needs all four competencies (oral and written, comprehension and production). A comprehension level does not fill the production fields.
 
+![PSTQ tools hub](../assets/tools-hub.png)
 ---
 
 ## English test → CLB reference

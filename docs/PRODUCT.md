@@ -1,5 +1,7 @@
 # What the PSTQ Score Calculator does
 
+![PSTQ Score Calculator product](../assets/product-grid.png)
+
 **PSTQ Score Calculator** is a free website that estimates a Québec skilled-worker selection score out of **1,400 points**, shows which stream the profile falls into, flags hard minimums, and compares the estimate with published Arrima invitation ranges.
 
 Live: [pstq.getnorthpath.com](https://pstq.getnorthpath.com)

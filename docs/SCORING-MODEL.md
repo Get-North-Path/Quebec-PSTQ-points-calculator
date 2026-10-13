@@ -1,5 +1,7 @@
 # Scoring model
 
+![PSTQ scoring model](../assets/scoring-grid.png)
+
 The PSTQ grid used by [pstq.getnorthpath.com](https://pstq.getnorthpath.com) totals **1,400 points**. The same formula is used in all four streams. Streams change **gates and invitation pools**, not the point table.
 
 Primary source named by the site: the explanatory document for the ministerial order of **20 June 2025** (erratum **9 July 2025**). The methodology page says the explanatory document text was last updated **26 June 2026**.

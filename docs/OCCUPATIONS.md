@@ -1,5 +1,6 @@
 # Occupations
 
+
 The site publishes **six** occupation profiles plus an index at [pstq.getnorthpath.com/occupations](https://pstq.getnorthpath.com/occupations). They describe a **typical TEER**, the stream the site usually assigns, and a short labour-market caution. They then send you to the calculator.
 
 These pages do **not** print a NOC code. Do not infer one from the job title. Confirm the code in the [NOC 2021 search](https://noc.esdc.gc.ca/) and confirm whether the occupation is regulated in Québec before you rely on the stream.
@@ -23,6 +24,7 @@ Index README: [pages/OCCUPATIONS.md](pages/OCCUPATIONS.md). Stream rules: [STREA
 | Construction trades | TEER 2 or 3, depending on the trade | Stream 2, or Stream 3 if the trade is regulated (the page gives licensed *électricien* as an example) | Skilled trades tied to construction have generally shown shortage or slight-shortage designations amid Québec housing-construction targets. Confirm **per trade** | [/occupations/construction-trades](https://pstq.getnorthpath.com/occupations/construction-trades) |
 | Engineers | TEER 1 (many disciplines are regulated) | Stream 3 if an Ordre des ingénieurs permit is required, otherwise Stream 1 | Demand varies by discipline and region. Do not treat “engineer” as one diagnosis | [/occupations/engineers](https://pstq.getnorthpath.com/occupations/engineers) |
 
+![PSTQ occupations hub](../assets/occupations-grid.png)
 ---
 
 ## How occupation inputs work on the calculator

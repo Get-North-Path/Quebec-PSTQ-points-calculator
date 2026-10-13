@@ -68,6 +68,7 @@ The homepage, on an empty Stream 2 profile, cites the **24 September 2026** Stre
 
 The message tells you whether the **current estimate** is below that round’s floor. Being below a past floor is context. It is not a determination that a later round will use the same floor.
 
+![PSTQ 2026 draws](../assets/draws-grid.png)
 ---
 
 ## How to read a row

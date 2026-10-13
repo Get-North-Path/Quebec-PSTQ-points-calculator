@@ -1,5 +1,7 @@
 # Occupations hub
 
+![PSTQ occupations hub](../../assets/occupations-grid.png)
+
 **Live:** [https://pstq.getnorthpath.com/occupations](https://pstq.getnorthpath.com/occupations)
 
 The occupations hub explains that TEER, regulated status, and labour-market context decide which stream scores you and which French gate applies. It lists **six** scoring profiles and tells you to run the calculator with your real profile.

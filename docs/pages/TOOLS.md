@@ -1,5 +1,7 @@
 # Tools hub
 
+![PSTQ tools hub](../../assets/tools-hub.png)
+
 **Live:** [https://pstq.getnorthpath.com/tools](https://pstq.getnorthpath.com/tools)
 
 The tools hub introduces **five** helpers: a French-level converter, a CLB reference, a NOC/TEER finder, a PEQ closure check, and a CSQ-to-PR timeline. The page says each tool links into the full calculator when you are ready.

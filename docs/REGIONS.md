@@ -15,6 +15,7 @@ Inside the CMM, the site says there is **no regional bonus**. A validated job of
 
 Index: [pstq.getnorthpath.com/regions](https://pstq.getnorthpath.com/regions). Page README: [pages/REGIONS.md](pages/REGIONS.md).
 
+![PSTQ regions hub](../assets/regions-grid.png)
 ---
 
 ## Pages on the site
