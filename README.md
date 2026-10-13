@@ -45,7 +45,7 @@ We do **not** replace the Ministère de l'Immigration, de la Francisation et de 
 
 <div align="center">
 
-<a href="https://pstq.getnorthpath.com/"><img src="assets/readme-hero.png" width="900" alt="PSTQ Score Calculator: Québec skilled worker points estimate"></a>
+<a href="https://pstq.getnorthpath.com/"><img src="assets/home-hub.png" width="900" alt="PSTQ Score Calculator: Québec skilled worker points estimate"></a>
 
 <br>
 
