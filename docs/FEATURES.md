@@ -48,7 +48,7 @@ Index: [/tools](https://pstq.getnorthpath.com/tools). Detail: [TOOLS.md](TOOLS.m
 
 | Guide | Path | Read time stated on the hub |
 | --- | --- | --- |
-| Guides index | [/guide](https://pstq.getnorthpath.com/guide) | — |
+| Guides index | [/guide](https://pstq.getnorthpath.com/guide) |   |
 | What is the PSTQ? | [/guide/what-is-pstq](https://pstq.getnorthpath.com/guide/what-is-pstq) | 5 min · updated Aug 2026 |
 | The four streams | [/guide/pstq-streams](https://pstq.getnorthpath.com/guide/pstq-streams) | 6 min · updated Aug 2026 |
 | Scoring factors | [/guide/scoring-factors](https://pstq.getnorthpath.com/guide/scoring-factors) | 7 min · grid of 20 Jun 2025 |
